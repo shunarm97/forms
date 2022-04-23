@@ -1,0 +1,37 @@
+{
+    "español" : {
+        "title" : "hola mundo",
+        "options": [
+           {"name" : "opcion 1",
+            "value" : 1
+           },
+           {"name" : "opcion 2",
+            "value" : 2
+           },
+           {"name" : "opcion 3",
+            "value" : 3
+           }
+        ],
+        "input1" : "Nombre",
+        "input2" : "Correo",
+        "input3" : "Acerca de mi"
+    },
+    "english": {
+        "title" : "hello world",
+        "options": [
+            {"name" : "option 1",
+                "value" : 1
+               },
+               {"name" : "option 2",
+                "value" : 2
+               },
+               {"name" : "option 3",
+                "value" : 3
+               }
+        ],
+        "input1" : "Name",
+        "input2" : "Email",
+        "input3" : "About of me"
+
+    }
+}
